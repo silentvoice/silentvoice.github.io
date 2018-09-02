@@ -25,7 +25,7 @@ github_username:  silentvoice
 github: [metadata]
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistaks
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
 
