@@ -18,8 +18,8 @@ email: ankurbohra123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts on Entrepreneurship, Technology Startups, Product Management, Personal Development, AI, Machine Learning, Deeplearning, Maths and Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://ankur.cc" # the base hostname & protocol for your site, e.g. http://example.com
-url: ""
+url: "https://ankur.cc" # the base hostname & protocol for your site, e.g. http://example.com
+#url: ""
 twitter_username: ankurbohra
 github_username:  silentvoice
 
@@ -57,7 +57,7 @@ social:
 analytics:
   provider: "google-gtag"
   google:
-    #tracking_id: "UA-1234567-8"
+    tracking_id: "UA-125054033-1"
     anonymize_ip: false # default    
 
 category_archive:
