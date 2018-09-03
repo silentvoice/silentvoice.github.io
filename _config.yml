@@ -70,10 +70,13 @@ tag_archive:
 author:
   name   : "Ankur Bohra"
  # avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Interested in Technology, Startups, Product Management, Data Science and Software Engineering" 
   email  : ankurbohra123@gmail.com
-  uri    : "http://ankur.cc"
-  home   : # null (default), "absolute or relative url to link to author home" 
+  uri    : "https://ankur.cc"
+  #home   : # null (default), "absolute or relative url to link to author home" 
+  linkedin : ankur-bohra
+  github : silentvoice
+  twitter: ankurbohra
 
 defaults:
   # _posts
